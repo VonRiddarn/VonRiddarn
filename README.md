@@ -6,6 +6,7 @@
       <a href="https://vonriddarn.itch.io/"><img src="https://www.svgrepo.com/show/452232/itch-io.svg" alt="Itch IO" width="64" height="64"/></a>
   <br/>
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="DotNet" width="32" height="32"/> 
+      <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="C Sharp" width="32" height="32"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/>
       <!--<img src="https://www.svgrepo.com/show/331860/dot.svg" alt="Separator" width="32" height="32"/>-->
       <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="32" height="32"/>
