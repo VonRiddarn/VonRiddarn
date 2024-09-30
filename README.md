@@ -20,7 +20,17 @@
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="32" height="32"/>
       <!--<img src="https://www.svgrepo.com/show/331860/dot.svg" alt="Separator" width="32" height="32"/>-->
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="32" height="32"/> 
-      <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="Unity" width="32" height="32"/>
+      <picture>
+        <source
+          srcset="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://www.svgrepo.com/show/394534/unity.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://www.svgrepo.com/show/394534/unity.svg" alt="Unity" width="32" height="32" />
+      </picture>
       <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" width="32" height="32"/>
 </p>
 
