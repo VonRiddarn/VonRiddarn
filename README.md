@@ -1,5 +1,9 @@
 # 💻 Timmy (VonRiddarn) Öhman
-*"You will not win, cause I will not lose."*
+*"You will not win, cause I will not lose."*<br>
+
+![Profile-visits](https://visitor-badge.laobi.icu/badge?page_id=VonRiddarn.VonRiddarn)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)<br />
+
 <p align="center">
       <a href="https://www.linkedin.com/in/timmyohman/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="Linkedin" width="64" height="64"/></a>
       <a href="https://x.com/VonRiddarn"><img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="Twitter" width="64" height="64"/></a>
@@ -20,9 +24,11 @@
       <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" width="32" height="32"/>
 </p>
 
-![Profile-visits](https://visitor-badge.laobi.icu/badge?page_id=VonRiddarn.VonRiddarn)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)<br />
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-tokend.vercel.app/api/top-langs/?username=VonRiddarn&layout=compact&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5" />
+  </a>
+</p>
 
 ## 🧙🏼‍♂️ About me
 - 🃏 Junior fullstack developer
