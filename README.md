@@ -1,4 +1,4 @@
-# 💻 Timmy (VonRiddarn) Öhman
+# 💻 Timmy "VonRiddarn" Öhman
 *"You will not win, cause I will not lose."*<br>
 
 ![Profile-visits](https://visitor-badge.laobi.icu/badge?page_id=VonRiddarn.VonRiddarn)
