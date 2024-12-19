@@ -1,4 +1,4 @@
-# 💻 Timmy (VonRiddarn) Öhman
+# 💻 Timmy "VonRiddarn" Öhman
 
 <p align="center">
       <a href="https://vonriddarn.itch.io/"><img src="https://www.svgrepo.com/show/452232/itch-io.svg" alt="Itch IO" width="64" height="64"/></a>
