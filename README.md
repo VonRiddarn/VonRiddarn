@@ -38,9 +38,6 @@
 <a href="https://github.com/VonRiddarn/EasyConsole">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VonRiddarn&repo=EasyConsole&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=transparent" alt="Easy console" />
 </a>
-<a href="https://github.com/VonRiddarn/character-limit-indicators">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VonRiddarn&repo=character-limit-indicators&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=transparent" alt="Character limit indicators" />
-</a>
 <a href="https://github.com/VonRiddarn/CreditCardChecksum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VonRiddarn&repo=CreditCardCheckSum&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&theme=transparent" alt="Credit card check sum" />
 </a>
