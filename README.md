@@ -8,7 +8,7 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="32" height="32"/>
-      <!--img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Nodejs" width="32" height="32"/-->
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Nodejs" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="32" height="32"/> 
