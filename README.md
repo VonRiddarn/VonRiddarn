@@ -2,15 +2,18 @@
 
 <p align="center">
       <a href="https://vonriddarn.itch.io/"><img src="https://www.svgrepo.com/show/452232/itch-io.svg" alt="Itch IO" width="64" height="64"/></a>
+      <a href="https://www.linkedin.com/in/timmyohman/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="LinkedIn" width="64" height="64"/></a>
   <br/>
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="DotNet" width="32" height="32"/> 
       <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="C Sharp" width="32" height="32"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="32" height="32"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Nodejs" width="32" height="32"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="React router" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/349502/sass.svg" alt="Sass" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="32" height="32"/> 
       <picture>
         <source
