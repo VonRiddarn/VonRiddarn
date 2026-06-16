@@ -9,6 +9,7 @@ Sole proprietor at <a href="https://www.fractalpike.com/">Fractal Pike Entertain
 
 ## 🧙🏼‍♂️ About me
 - 🕹 Game and systems developer
+- 💼 Enterprise junior
 - 💪 Grinding code on the daily
 - ⚖ Law and security enthusiast
 - 🔥 Clueless but lowkey based
